@@ -95,6 +95,7 @@ var e,t=arguments[3];!function(t,n){"object"==typeof exports&&"undefined"!=typeo
   .login-form {
     width: 300px;
     padding: 20px;
+background-colo:white;
     height: auto;
     border-radius: 5px;
     box-shadow: 0 0px 1.9px rgba(0, 0, 0, 0.013),
